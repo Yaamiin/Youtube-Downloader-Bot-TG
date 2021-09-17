@@ -3,16 +3,16 @@
     ffmpeg
   
     
-## install dependencies 🔰
+## install dependencies 💠
     pip3 install -r requirements.txt
 
 
-## Setup Bot 🔰
+## Setup Bot 💠
     - Change configuration config.py  File
     - install dependencies
     - python3 -m bot
     
-## Thanks ⭕
+## Thanks 🔙
 * [Spechide](https://telegram.dog/SpEcHIDe) for his [AnyDlBot](https://github.com/SpEcHiDe/AnyDLBot)
 * [HasibulKabir](https://telegram.dog/HasibulKabir)
 
