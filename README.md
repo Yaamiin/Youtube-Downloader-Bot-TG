@@ -17,4 +17,4 @@
 ## Deploy To Heroku 🔙
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hydravigguyt/Youtube-Downloader-Bot.git/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hydrayt777/Youtube-Downloader-Bot-TG.git/tree/master)
